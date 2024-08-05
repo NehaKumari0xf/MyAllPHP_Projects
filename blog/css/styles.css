@@ -1,0 +1,10 @@
+body {
+    padding-top: 56px;
+}
+footer {
+    margin-top: 20px;
+}
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
